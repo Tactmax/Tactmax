@@ -109,11 +109,11 @@ Also exploring technologies and tools across native development, browser runtime
 ---
 
 <p align="center">
-  <samp>BUILD Â· EXPERIMENT Â· UNDERSTAND Â· REPEAT</samp>
+  <samp>BUILD |· EXPERIMENT |· UNDERSTAND |· REPEAT</samp>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tactmax">GitHub</a> Â·
-  <a href="https://github.com/Orientalis-AI">Orientalis AI</a> Â·
+  <a href="https://github.com/Tactmax">GitHub</a> |·
+  <a href="https://github.com/Orientalis-AI">Orientalis AI</a> |·
   <a href="https://github.com/The-SNEK-Initiative">The SNEK Initiative</a>
 </p>
