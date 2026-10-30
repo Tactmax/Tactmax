@@ -5,7 +5,7 @@
 <h1 align="center">TACTMAX</h1>
 
 <p align="center">
-  <samp>AI RESEARCH Â· SYSTEMS ENGINEERING Â· LANGUAGE DESIGN Â· GAME TECHNOLOGY</samp>
+  <samp>AI RESEARCH |· SYSTEMS ENGINEERING |· LANGUAGE DESIGN |· GAME TECHNOLOGY</samp>
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
 
 ## `01` // Research & Engineering
 
-- **Neural architecture research** â€” Exploring alternative approaches to language modeling, structured token interactions, and efficient computation.
-- **Systems programming** â€” Working close to the hardware across kernels, native code, assembly, and WebAssembly.
-- **Programming language development** â€” Exploring language implementation and low-level tooling, including work with Rust.
-- **Game engines & physics** â€” Building modular engine systems, browser-based 3D tooling, and physics integrations.
-- **Reverse engineering** â€” Interested in understanding software internals, implementation details, and system behavior.
+- **Neural architecture research**: Exploring alternative approaches to language modeling, structured token interactions, and efficient computation.
+- **Systems programming**: Working close to the hardware across kernels, native code, assembly, and WebAssembly.
+- **Programming language development**: Exploring language implementation and low-level tooling, including work with Rust.
+- **Game engines & physics**: Building modular engine systems, browser-based 3D tooling, and physics integrations.
+- **Reverse engineering**: Interested in understanding software internals, implementation details, and system behavior.
 
 ## `02` // Independent AI Research
 
@@ -39,8 +39,8 @@ Its research direction investigates structured algebraic interactions and candid
 
 #### Subsystems & Concepts
 
-- **ARS â€” Algebraic Relational State:** A subsystem inspired by symbolic neural representations, focused on representing and composing structured algebraic relationships.
-- **BOPS â€” Backprop Optimization Sequence:** An optimization subsystem associated with the architecture's backpropagation and training process.
+- **ARS | Algebraic Relational State:** A subsystem inspired by symbolic neural representations, focused on representing and composing structured algebraic relationships.
+- **BOPS | Backprop Optimization Sequence:** An optimization subsystem associated with the architecture's backpropagation and training process.
 - **Algebraic token interaction:** Structured token representations and noncommutative composition.
 - **Candidate evaluation:** Algebraic approaches to scoring potential next tokens.
 
